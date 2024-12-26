@@ -28,6 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
+CRISPY_TEMPLATE_PACK = "bootstrap5"
+
 # Application definition
 
 INSTALLED_APPS = [
